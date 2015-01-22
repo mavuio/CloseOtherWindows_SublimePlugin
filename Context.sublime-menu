@@ -1,0 +1,8 @@
+[
+    { 
+    	"id": "CloseOtherWindows",
+    	"command": "closeow",
+    	"caption": "Close Other Windows"
+    }
+
+]

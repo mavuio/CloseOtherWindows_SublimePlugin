@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "File",
+        "mnemonic": "f",
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "Close Other Windows",
+                "mnemonic": "",
+                "id": "closeow",
+                "command":"closeow"
+             }  
+        ]
+    }
+]         

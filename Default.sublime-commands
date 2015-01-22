@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Close Other Windows: Close all windows except the current one",
+        "command": "closeow"
+    }
+]    
