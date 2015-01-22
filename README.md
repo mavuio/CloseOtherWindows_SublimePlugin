@@ -7,11 +7,10 @@ Close all windows except current window.
 
 Key and menu options
 --------------------
-- Right click and select Close Other Windows
 - Click File menu option and select Close Other Windows
-- Press `Ctrl`+`alt`+`8`
+- Right click and select Close Other Windows
+- Press `Alt`+`Super`+`w`
 
-`Inspired by Close All But This: https://github.com/avinash8526/CloseAllButThis-Sublime-PLugin` 
 
 How to download
 -----------------
