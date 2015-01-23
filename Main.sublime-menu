@@ -8,9 +8,15 @@
             {
                 "caption": "Close Other Windows",
                 "mnemonic": "",
-                "id": "closeow",
-                "command":"closeow"
-             }  
+                "id": "close_other_windows",
+                "command":"close_other_windows"
+             },
+             {
+                "caption": "Close Other Tabs",
+                "mnemonic": "",
+                "id": "close_other_tabs",
+                "command":"close_other_tabs"
+             }    
         ]
     }
 ]         

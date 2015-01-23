@@ -1,6 +1,10 @@
 [
     {
-        "caption": "Close Other Windows: Close all windows except the current one",
-        "command": "closeow"
+        "caption": "Close Other Windows: Close all windows except the active one",
+        "command": "close_other_windows"
+    },
+    {
+        "caption": "Close Other Tabs: Close all tabs except the active one",
+        "command": "close_other_tabs"
     }
 ]    

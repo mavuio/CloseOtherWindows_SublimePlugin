@@ -1,8 +1,14 @@
 [
     { 
     	"id": "CloseOtherWindows",
-    	"command": "closeow",
+    	"command": "close_other_windows",
     	"caption": "Close Other Windows"
-    }
+    },
+    { 
+        "id": "CloseOtherTabs",
+        "command": "close_other_tabs",
+        "caption": "Close Other Tabs"
+    },
+
 
 ]

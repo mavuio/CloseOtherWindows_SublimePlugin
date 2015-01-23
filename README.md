@@ -3,7 +3,12 @@ CloseOtherWindows-Sublime-PLugin
 
 what it does
 ------------
-Close all windows except current window.
+it provides 2 commands:
+
+- Close all windows except current window.
+- Close all tabs except current tab 
+(you could achieve the same by right-clicking on a tab and choose 'close other tabs')
+this package gives you a keyboard shortcut for that (btw, the same as on TextMate)
 
 Key and menu options
 --------------------
@@ -11,6 +16,9 @@ Key and menu options
 - Right click and select Close Other Windows
 - Press `Alt`+`Super`+`w`
 
+- Click File menu option and select Close Other Tabs
+- Right click and select Close Other Tabs
+- Press `Ctrl`+`Super`+`w`
 
 How to download
 -----------------
