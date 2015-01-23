@@ -5,14 +5,9 @@
 #----------------------------------------------------------------------------
 
 import sublime, sublime_plugin
-
-class TestWindowCommand(sublime_plugin.WindowCommand):
-    def run(self):
-        print("running TestWindowCommand")
         
 class closeowCommand(sublime_plugin.WindowCommand):
     def run(self):
-        print('run closeow')
         allWindows=sublime.windows()
         currentWindow = sublime.active_window()
         for i,w in enumerate(allWindows):
