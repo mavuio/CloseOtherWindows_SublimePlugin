@@ -1,8 +1,9 @@
 [
     {
-        "keys": ["alt+super+w"], "command": "close_other_windows",
+        "keys": ["alt+super+w"], "command": "close_other_windows"
+    },
+    {
         "keys": ["ctrl+super+w"], "command": "close_other_tabs"
-
     }
 
 ]
