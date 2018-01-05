@@ -9,6 +9,11 @@
         "command": "close_other_tabs",
         "caption": "Close Other Tabs"
     },
+    {
+        "id": "CloseTabsToTheRight",
+        "command": "close_tabs_to_the_right",
+        "caption": "Close Tabs to the Right"
+    },
 
 
 ]

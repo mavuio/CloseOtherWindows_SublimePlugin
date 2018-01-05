@@ -6,5 +6,9 @@
     {
         "caption": "Close Other Tabs: Close all tabs except the active one",
         "command": "close_other_tabs"
+    },
+    {
+        "caption": "Close Tabs to the Right: Close all tabs to the right of the active one",
+        "command": "close_tabs_to_the_right"
     }
-]    
+]
