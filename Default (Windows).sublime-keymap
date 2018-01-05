@@ -4,6 +4,10 @@
     },
     {
         "keys": ["ctrl+super+w"], "command": "close_other_tabs"
+    },
+    {
+        "keys": ["ctrl+super+r"], "command": "close_tabs_to_the_right"
     }
+
 
 ]
